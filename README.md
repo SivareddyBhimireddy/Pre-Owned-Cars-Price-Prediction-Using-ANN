@@ -36,12 +36,18 @@ python3 --version
 ## 5. Install Dependencies from requirements.txt
 * In terminal `pip install -r requirements.txt`
 
-## 6. Run Flask Application
+## 6. Run ANN Model
+* In Terminal run `python train_pipeline.py`
+* After successful execution you should see 2 files named
+    * price_prediction_pipeline.pkl
+    * price_prediction_pipeline.h5 
+
+## 7. Run Flask Application
 * `python webby.py`
 
-## 7. Open Browser
+## 8. Open Browser
 * Go to `http://127.0.0.1:5000/`
 
-## 8. Deactivate Virtual Environment
+## 9. Deactivate Virtual Environment
 
 * `deactivate`
