@@ -22,7 +22,7 @@ python3 --version
 ## 2. Clone the GitHub Repository
 * `git clone https://github.com/SivareddyBhimireddy/Pre-Owned-Cars-Price-Prediction-Using-ANN.git`
 * `cd Pre-Owned-Cars-Price-Prediction-Using-ANN.git`
-* Download Dataset from [Here](www.drive.com)
+* Download Dataset from [Here](https://drive.google.com/file/d/177pPHpf9H9wbR0df9vw-M6v_omxJf5BF/view?usp=sharing)
 
 ## 3. Create a Virtual Environment
 * Windows `python -m venv venv`
