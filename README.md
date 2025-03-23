@@ -37,7 +37,7 @@ python3 --version
 * In terminal `pip install -r requirements.txt`
 
 ## 6. Run Flask Application
-* `python app.py`
+* `python webby.py`
 
 ## 7. Open Browser
 * Go to `http://127.0.0.1:5000/`
